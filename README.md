@@ -1,1 +1,1 @@
-# solutions for codeit lecture
+# materials of codeit lecture
